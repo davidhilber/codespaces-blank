@@ -1,7 +1,7 @@
-{#include<stdio.h>
-#include<cs50.h>
+#include<stdio.h>
+
 int main(void){
-    string answer = get_string("what's your name? ");
-    printf("hello, answer\n");
-}
+    printf("hello, world\n");
+    printf("hello, world\n");
+    printf("hello, world\n");
 }
